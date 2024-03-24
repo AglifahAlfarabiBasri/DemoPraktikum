@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Demo {
 
     private static final String ADMIN_USERNAME = "admin";
-    private static final String ADMIN_PASSWORD = "Giparong";
+    private static final String ADMIN_PASSWORD = "admin";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
